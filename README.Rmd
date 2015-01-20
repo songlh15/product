@@ -1,0 +1,19 @@
+---
+title: "Readme"
+output: html_document
+---
+
+This Shinny App is for explotory of **IRIS** data built in R. You will be able to choose the specie you are interested and get its summary. You can also use this App to visualise the difference of width and length of  Sepal or Petal across the three species.  
+
+**To get the statstics of the specie:**
+
+Select from the sidebar panel labeled **Choose a specie you are interested**, the result will be show on upper part of the right panel.
+
+**To get the visulize the width and length:**
+
+Simply choose from **Choose Petal/Sepal for graph**, the scatterplot group by species with color will be shown on the lower part of the right panel.
+
+
+
+
+
